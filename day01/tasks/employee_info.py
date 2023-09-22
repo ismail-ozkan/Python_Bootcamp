@@ -1,0 +1,10 @@
+name = "ismail"
+age = 32
+gender = "male"
+company = "Cydeo"
+job_title = "SDET"
+years_of_experience = 1
+salary = 25000
+is_fulltime = True
+is_married = True
+employee_id = 954471
