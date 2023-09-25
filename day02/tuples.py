@@ -61,7 +61,7 @@ for x in days:
 
 print("--------------------------")
 
-for i in range(len(days)):
+for i in range(0, len(days)):
     print(f'{i+1}) {days[i]}')
 
 
